@@ -21,8 +21,9 @@ The `client` folder contains all the code of the React.js application.
 
 - Go into the `client` folder `cd client`
 - Install the dependencies `npm install`
-- Build the application `npm run build`
-- Open `build/index.html` in your browser
+- Build the application `npm run start`
+
+You browser should open `http://localhost:3001` and show the app.
 
 ## Improvements
 
