@@ -1,0 +1,15 @@
+.side {
+  border: 1px solid white;
+  border-radius: 4px;
+  height: 38px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 5px;
+  padding: 0 4px;
+}
+
+.active {
+  background-color: #007bff;
+}

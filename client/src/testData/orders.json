@@ -1,0 +1,37 @@
+[
+  {
+    "id": "10c4987e-588a-48ea-b905-0309b868e2aa",
+    "userId": 2,
+    "side": "ASK",
+    "price": "12",
+    "amount": "15"
+  },
+  {
+    "id": "4683d876-7996-4eef-83c4-cb8b493e3a13",
+    "userId": 1,
+    "side": "ASK",
+    "price": "1",
+    "amount": "21"
+  },
+  {
+    "id": "01407d17-8edc-4ea6-ba33-7ffff73c1a0b",
+    "userId": 1,
+    "side": "BID",
+    "price": "5",
+    "amount": "78"
+  },
+  {
+    "id": "d9396d33-5100-4753-8fb9-34c89b037cd4",
+    "userId": 5,
+    "side": "BID",
+    "price": "35",
+    "amount": "120"
+  },
+  {
+    "id": "aee39fe1-64e3-4472-b091-58035b33e3a5",
+    "userId": 5,
+    "side": "BID",
+    "price": "1220",
+    "amount": "10000"
+  }
+]
